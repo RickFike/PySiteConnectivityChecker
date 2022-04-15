@@ -1,0 +1,7 @@
+python.org
+pypi.org
+docs.python.org
+peps.python.org
+login.eveonline.com
+www.msdn.com
+www.cnn.com
